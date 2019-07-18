@@ -8,7 +8,7 @@
 hololens-photocapture.sln: modified
 GeneratedProjects\UWP\Assembly-CSharp\project.json: 1D02BC64BAC0D041019673A1C4C51737
 hololens-photocapture\App.cs: 7F6155D0E46D21622E8A03ACBD2EE459
-hololens-photocapture\hololens-photocapture.csproj: 1D47085AF93E90ED1C2B25EAF0B99D2A
+hololens-photocapture\hololens-photocapture.csproj: 8FA35F8782894E536574D622AB55EA4D
 hololens-photocapture\hololens-photocapture.csproj.user: modified
 hololens-photocapture\Package.appxmanifest: A6ADCCA34268AE7388E51FA79864D344
 hololens-photocapture\project.json: 1D02BC64BAC0D041019673A1C4C51737
